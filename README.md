@@ -1,3 +1,5 @@
 # TeachingGit
 primera clase Ecchi
-testing changes
+Hola
+como
+estas
