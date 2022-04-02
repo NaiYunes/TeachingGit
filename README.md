@@ -1,5 +1,5 @@
 # TeachingGit
 primera clase Ecchi
-Hola
+Chau
 como
 estas
